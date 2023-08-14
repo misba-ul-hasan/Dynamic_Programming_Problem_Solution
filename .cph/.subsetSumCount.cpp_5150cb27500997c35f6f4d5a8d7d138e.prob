@@ -1,0 +1,1 @@
+{"name":"Local: subsetSumCount","url":"f:\\codeforce\\cpp\\DP\\0\\subsetSumCount.cpp","tests":[{"id":1684557429676,"input":"1\n4 6\n1 2 3 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\codeforce\\cpp\\DP\\0\\subsetSumCount.cpp","group":"local","local":true}

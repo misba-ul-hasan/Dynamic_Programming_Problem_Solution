@@ -1,0 +1,1 @@
+{"name":"Local: LCS","url":"f:\\codeforce\\cpp\\DP\\0\\LCS.cpp","tests":[{"id":1687014627504,"input":"1\nabcde\nacdbe","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\codeforce\\cpp\\DP\\0\\LCS.cpp","group":"local","local":true}

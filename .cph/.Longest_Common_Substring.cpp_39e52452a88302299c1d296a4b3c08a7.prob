@@ -1,0 +1,1 @@
+{"name":"Local: Longest_Common_Substring","url":"f:\\codeforce\\cpp\\DP\\0\\Longest_Common_Substring.cpp","tests":[{"id":1688651681752,"input":"1\nabsdf\nasdfv","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\codeforce\\cpp\\DP\\0\\Longest_Common_Substring.cpp","group":"local","local":true}
